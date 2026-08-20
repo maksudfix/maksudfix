@@ -77,5 +77,6 @@ I also have several C# projects covering **OOP, LINQ, and application developmen
 ---
 
 <p align="center">
-  <i>Always learning. Always building. 🚀</i>
+  <i>Repair Almost Anything</i>
+  <i>Trex Development.</i>
 </p>
