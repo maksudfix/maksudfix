@@ -1,6 +1,6 @@
 # Hi 👋,
 
-I'm Maksud Mubin, a full-stack web application developer specializing in C#, ASP.NET Core MVC, REST APIs, and SQL Server.
+I'm Maksud Mubin, a web application developer specializing in C#, ASP.NET Core MVC, REST APIs, and SQL Server.
 
 ## Core Skills
 
@@ -23,7 +23,7 @@ I’m continuously expanding my development skills and currently focusing on:
 SOLID Principles • Dependency Injection (DI) • Clean & Maintainable Code
 
 **Web Development & Security**  
-JWT Authentication • HTML5 • CSS3
+ JWT Authentication • JavaScript • HTML5 • CSS3
 
 **DevOps & Deployment**  
 CI/CD Pipelines
