@@ -77,6 +77,6 @@ I also have several C# projects covering **OOP, LINQ, and application developmen
 ---
 
 <p align="center">
-  <i>Repair Almost Anything</i>
-  <i>Trex Development.</i>
+  <i>Repair Almost Anything</i><br>
+  <i>Trex Development</i>
 </p>
