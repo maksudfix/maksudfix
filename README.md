@@ -5,7 +5,7 @@ I'm Maksud Mubin, a full-stack web application developer specializing in C#, ASP
 ## Core Skills
 
 **Programming Languages**  
-C# • SQL • HTML5 • CSS • JavaScript
+C# • SQL • JavaScript
 
 **Frameworks & Technologies**  
 ASP.NET Core MVC • Razor Views • Entity Framework Core • Bootstrap • jQuery
