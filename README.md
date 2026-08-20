@@ -1,12 +1,27 @@
-# Hi 👋, 
-I'm Maksud Mubin, a full-stack web application developer using C#, ASP.NET Core MVC, REST APIs, and SQL Server.
+# Hi 👋,
+
+I'm Maksud Mubin, a full-stack web application developer specializing in C#, ASP.NET Core MVC, REST APIs, and SQL Server.
 
 ## Core Skills
-**Programming Languages**
+
+**Programming Languages**  
 C# • SQL • HTML5 • CSS • JavaScript
 
-**Frameworks & Technologies**
-ASP.NET Core MVC • Razor Views • Bootstrap • jQuery
+**Frameworks & Technologies**  
+ASP.NET Core MVC • Razor Views • Entity Framework Core • Bootstrap • jQuery
+
+## Currently Learning
+My goal is to become more proficient in building scalable, maintainable, secure, and production-ready web applications.
+I’m continuously expanding my development skills and currently focusing on:
+
+**Software Development Practices**  
+SOLID Principles • Dependency Injection (DI) • Clean & Maintainable Code
+
+**Web Development & Security**  
+JWT Authentication • JavaScript • HTML5 • CSS3
+
+**DevOps & Deployment**  
+CI/CD Pipelines • Continuous Integration • Continuous Deployment
 
 ## Featured Projects
 
@@ -16,18 +31,17 @@ A full-stack pharmacy management system built with ASP.NET Core MVC, Entity Fram
 
 **Key Features**
 
-* Authentication & authorization
-* Admin and Customer role-based access
-* Medicine and stock management
-* Prescription management
-* Purchase and checkout functionality
-* Customer management
-* Admin dashboard
+- Authentication & authorization
+- Admin and Customer role-based access
+- Medicine and stock management
+- Prescription management
+- Purchase and checkout functionality
+- Customer management
+- Admin dashboard
 
 **Tech Stack:** C# • ASP.NET Core MVC • Entity Framework Core • SQL Server • Bootstrap
 
 🔗 **[View Repository](https://github.com/maksudfix/Pharmacy-Management-System)**
-
 
 ### Blog Media
 
@@ -35,25 +49,24 @@ A full-stack blogging platform built with **ASP.NET Core MVC, Entity Framework C
 
 **Key Features**
 
-* ASP.NET Core Identity authentication
-* Admin and User role-based authorization
-* Blog post CRUD operations
-* Category-based filtering
-* Interactive commenting
-* Custom Razor Tag Helper
-* Responsive user interface
+- ASP.NET Core Identity authentication
+- Admin and User role-based authorization
+- Blog post CRUD operations
+- Category-based filtering
+- Interactive commenting
+- Custom Razor Tag Helper
+- Responsive user interface
 
 **Tech Stack:** C# • ASP.NET Core MVC • ASP.NET Core Identity • Entity Framework Core • SQL Server • Razor Views • Bootstrap • JavaScript
 
 🔗 **[View Repository](https://github.com/maksudfix/Blog-Media)**
 
-##  Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudfix&hide_border=true" />
 </p>
 
----
 
 ## More Projects
 
@@ -61,3 +74,8 @@ I also have several C# projects covering **OOP, LINQ, and application developmen
 
 🔗 **[View All Repositories](https://github.com/maksudfix?tab=repositories)**
 
+---
+
+<p align="center">
+  <i>Always learning. Always building. 🚀</i>
+</p>
