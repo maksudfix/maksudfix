@@ -7,21 +7,26 @@ I'm Maksud Mubin, a full-stack web application developer specializing in C#, ASP
 **Programming Languages**  
 C# • SQL • JavaScript
 
-**Frameworks & Technologies**
-ASP.NET Core MVC • Razor Views • Bootstrap • JavaScript
+**Frameworks & Technologies**  
+ASP.NET Core MVC • Razor Views • Bootstrap
+
+**Database & Data Access**  
+Entity Framework Core • SQL Server
 
 ## Currently Learning
+
 My goal is to become more proficient in building scalable, maintainable, secure, and production-ready web applications.
+
 I’m continuously expanding my development skills and currently focusing on:
 
 **Software Development Practices**  
 SOLID Principles • Dependency Injection (DI) • Clean & Maintainable Code
 
 **Web Development & Security**  
-JWT Authentication • JavaScript • HTML5 • CSS3
+JWT Authentication • HTML5 • CSS3
 
 **DevOps & Deployment**  
-CI/CD Pipelines • Continuous Integration • Continuous Deployment
+CI/CD Pipelines
 
 ## Featured Projects
 
@@ -66,7 +71,6 @@ A full-stack blogging platform built with **ASP.NET Core MVC, Entity Framework C
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudfix&hide_border=true" />
 </p>
-
 
 ## More Projects
 
