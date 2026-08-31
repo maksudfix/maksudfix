@@ -1,31 +1,39 @@
 # Hi 👋,
 
-I'm Maksud Mubin, a web application developer specializing in C#, ASP.NET Core MVC, REST APIs, and SQL Server.
+I'm Maksud Mubin, a web application developer specializing in C#, ASP.NET Core MVC, REST APIs, AI Integration and SQL Server.
 
 ## Core Skills
+# Programming Languages
 
-**Programming Languages**  
 C# • SQL • JavaScript
 
-**Frameworks & Technologies**  
-ASP.NET Core MVC • Razor Views • Bootstrap
+# Frameworks & Technologies
 
-**Database & Data Access**  
+ASP.NET Core MVC • Razor Views • jQuery
+
+# AI & API Integration
+
+Groq API • REST APIs
+
+# Database & Data Access
+
 Entity Framework Core • SQL Server
 
 ## Currently Learning
-
 My goal is to become more proficient in building scalable, maintainable, secure, and production-ready web applications.
 
 I’m continuously expanding my development skills and currently focusing on:
 
-**Software Development Practices**  
+# Software Development Practices
+
 SOLID Principles • Dependency Injection (DI) • Clean & Maintainable Code
 
-**Web Development & Security**  
- JWT Authentication • JavaScript • HTML5 • CSS3
+## Web Development & Security
 
-**DevOps & Deployment**  
+JWT Authentication • JavaScript • HTML5 • CSS3
+
+# Deployment
+
 CI/CD Pipelines
 
 ## Featured Projects
@@ -40,11 +48,12 @@ A full-stack pharmacy management system built with ASP.NET Core MVC, Entity Fram
 - Admin and Customer role-based access
 - Medicine and stock management
 - Prescription management
+- Advanced prescription reading with AI-powered via the Groq
 - Purchase and checkout functionality
 - Customer management
 - Admin dashboard
 
-**Tech Stack:** C# • ASP.NET Core MVC • Entity Framework Core • SQL Server • Bootstrap
+**Tech Stack:** C# • ASP.NET Core MVC • Entity Framework Core • SQL Server
 
 🔗 **[View Repository](https://github.com/maksudfix/Pharmacy-Management-System)**
 
