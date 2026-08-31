@@ -75,12 +75,6 @@ A full-stack blogging platform built with **ASP.NET Core MVC, Entity Framework C
 
 🔗 **[View Repository](https://github.com/maksudfix/Blog-Media)**
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudfix&hide_border=true" />
-</p>
-
 ## More Projects
 
 I also have several C# projects covering **OOP, LINQ, and application development**.
