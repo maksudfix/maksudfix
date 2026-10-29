@@ -2,39 +2,44 @@
 
 I'm Maksud Mubin, a web application developer specializing in C#, ASP.NET Core MVC, REST APIs, AI Integration and SQL Server.
 
-## Core Skills
-### Programming Languages
-
-C# • SQL • JavaScript
-
-### Frameworks & Technologies
-
-ASP.NET Core MVC • Razor Views • jQuery
-
-### AI & API Integration
-
-Groq API • REST APIs
-
-### Database & Data Access
-
-Entity Framework Core • SQL Server
-
-## Currently Learning
+## Practicing & Learning
 My goal is to become more proficient in building scalable, maintainable, secure, and production-ready web applications.
 
-I’m continuously expanding my development skills and currently focusing on:
+## Core Skills
 
-### Software Development Practices
+### Programming Languages
+• C#
 
-SOLID Principles • Dependency Injection (DI) • Clean & Maintainable Code
+### Frameworks & Technologies
+• ASP.NET Core MVC 
+• ASP.NET Core Web API
+
+### Software Development & Architecture
+• SOLID Principles 
+• Dependency Injection (DI) 
+• Clean Architecture 
+• CQRS (Command Query Responsibility Segregation) 
+•  Data Transfer Objects (DTOs)
 
 ### Web Development & Security
 
-JWT Authentication • JavaScript • HTML5 • CSS3
+• JWT Authentication & Authorization 
+• Role-Based Authorization 
+• API Security 
+
+### API Integration
+• Scalar API
+• RESTful API Integration
+
+### AI Integration
+• Groq API (AI)
+
+### Database & Data Access
+• Entity Framework Core 
+• SQL Server
 
 ### Deployment
-
-CI/CD Pipelines
+• CI/CD Pipelines
 
 ## Featured Projects
 
